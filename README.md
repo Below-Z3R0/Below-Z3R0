@@ -35,7 +35,7 @@ Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,supabase,postgres,framer,zod,vercel,git,eslint" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,supabase,postgres,vercel,git" alt="Tech Stack" />
   </a>
 </p>
 
