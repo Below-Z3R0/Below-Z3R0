@@ -19,13 +19,13 @@
 
 ---
 
-## 👋 Sobre mí
+##  Sobre mí
 
-- 🎯 Me enfoco en el ecosistema **JavaScript / TypeScript**
-- 🏗️ Me gusta construir proyectos reales y aprender constantemente
-- 🧩 Me interesan las arquitecturas limpias, el código tipado y los buenos DX
-- ☕ **Coffee-driven developer** — el café es parte oficial del stack
-- 🌱 Siempre tengo algo nuevo entre manos (ahora mismo: Cloud y Testing)
+- Me enfoco en el ecosistema **JavaScript / TypeScript**
+- Me gusta construir proyectos reales y aprender constantemente
+- Me interesan las arquitecturas limpias, el código tipado y los buenos DX
+- **Coffee-driven developer** — el ☕ es parte oficial del stack
+- Siempre tengo algo nuevo entre manos (ahora mismo: Cloud y Testing)
 
 ---
 
@@ -49,11 +49,11 @@ Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
 
 ---
 
-## 🌱 Actualmente
+## Actualmente
 
-- 🔭 **Trabajando en:** Mi propia biblioteca de componentes
-- 🌿 **Aprendiendo:** Testing, AWS y Arquitecturas API
-- 💬 **Pregúntame sobre:** React, TypeScript, o dónde encontrar el mejor café de Panamá 😄
+- **Trabajando en:** Mi propia biblioteca de componentes
+- **Aprendiendo:** Testing, AWS y Arquitecturas API
+- **Pregúntame sobre:** React, TypeScript, o dónde encontrar el mejor café de Panamá 😄
 
 ---
 
