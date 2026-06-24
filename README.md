@@ -1,14 +1,3 @@
-<!--
-  👋 Hola, Emmanuel — este archivo es tu GitHub Profile README.
-
-  📌 CÓMO USARLO:
-  1. Crea un repositorio nuevo en GitHub con el mismo nombre que tu username (Below-Z3R0/Below-Z3R0).
-     - Hazlo público.
-     - Inicialízalo con un README (puedes pegar el contenido de este archivo).
-  2. GitHub renderizará este README automáticamente en tu perfil público.
-  3. Edita los placeholders marcados con [TU_X] a tu gusto.
--->
-
 <div align="center">
 
 # Hey there, I'm Emmanuel 👋
@@ -19,12 +8,12 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Emmanuel+%F0%9F%91%8B;Desarrollador+fullstack+en+formaci%C3%B3n+%E2%98%95;Construyendo+cosas+con+JavaScript+%F0%9F%8C%80;Aprendiendo+en+p%C3%BAblico+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Emmanuel+%F0%9F%91%8B;Desarrollador+fullstack+en+formaci%C3%B3n+%E2%98%95;Construyendo+cosas+con+TypeScript+%F0%9F%8C%80;Aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Below--Z3R0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Below-Z3R0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-centeno-3bbab53b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelcenteno)
 
 </div>
 
@@ -33,10 +22,10 @@
 ## 👋 Sobre mí
 
 - 🎯 Me enfoco en el ecosistema **JavaScript / TypeScript**
-- 🏗️ Me gusta construir proyectos reales y aprender en público
+- 🏗️ Me gusta construir proyectos reales y aprender constantemente
 - 🧩 Me interesan las arquitecturas limpias, el código tipado y los buenos DX
 - ☕ **Coffee-driven developer** — el café es parte oficial del stack
-- 🌱 Siempre tengo algo nuevo entre manos (ahora mismo: [LO_QUE_ESTAS_APRENDIENDO])
+- 🌱 Siempre tengo algo nuevo entre manos (ahora mismo: Cloud y Testing)
 
 ---
 
@@ -51,16 +40,19 @@ Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
 </p>
 
 **Frontend** — React 19 · TypeScript · Tailwind CSS v4 · Framer Motion
+
 **State & Data** — TanStack Query · Zustand · Zod
+
 **Backend & Services** — Supabase · PostgreSQL · EmailJS
+
 **Tools** — Vite · ESLint · Husky · Vercel
 
 ---
 
 ## 🌱 Actualmente
 
-- 🔭 **Trabajando en:** [PROYECTO_ACTUAL] *(ej: una plataforma de cursos tipo Udemy)*
-- 🌿 **Aprendiendo:** [LO_QUE_ESTAS_APRENDIENDO] *(ej: Next.js, testing, AWS...)*
+- 🔭 **Trabajando en:** Mi propia biblioteca de componentes
+- 🌿 **Aprendiendo:** Testing, AWS y Arquitecturas API
 - 💬 **Pregúntame sobre:** React, TypeScript, o dónde encontrar el mejor café de Panamá 😄
 
 ---
