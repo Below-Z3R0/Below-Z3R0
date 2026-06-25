@@ -1,49 +1,60 @@
+<style>
+  .tech {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+    margin: 24px 0;
+  }
+
+</style>
+
 <div align="center">
-
-# Hey there, I'm Emmanuel 👋
-
-**Desarrollador de software fullstack en formación** ☕
-
-*Construyendo cosas con TypeScript, Tailwind y mucho café.*
-
----
-
-##  Sobre mí
-
-- Me enfoco en el ecosistema **JavaScript / TypeScript**
-- Me gusta construir proyectos reales y aprender constantemente
-- Me interesan las arquitecturas limpias, el código tipado y los buenos DX
-- **Coffee-driven developer** — el ☕ es parte oficial del stack
-- Siempre tengo algo nuevo entre manos (ahora mismo: Cloud y Testing)
-
----
-
-## 🛠️ Tech Stack
-
-Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,supabase,postgres,vercel,git" alt="Tech Stack" />
+  <a href="https://tenor.com/view/cat-chill-pixel-gif-9659046017019133973">
+    <img src="https://media1.tenor.com/m/hgvTLTmTwBUAAAAC/cat-chill.gif" alt="Cat Chill Pixel Cat" width="80%" />
   </a>
-</p>
+</div>
 
-**Frontend** — React 19 · TypeScript · Tailwind CSS v4 · Framer Motion
+</br>
 
-**State & Data** — TanStack Query · Zustand · Zod
+# Hey there!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-**Backend & Services** — Supabase · PostgreSQL · EmailJS
 
-**Tools** — Vite · ESLint · Husky · Vercel
+Soy Emmanuel, desarrollador de software en Panamá
+</br>
+</br>
+Trabajo principalmente en el frontend — React, TypeScript, Tailwind, y algo de backend con Express JS.
+
+También uso Figma para diseñar UI y Infinite painter cuando quiero bocetar ideas.
+
+Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocurran. Todo está desarrollado desde 0, sin plantillas ni copy/paste.
+
+--- 
+
+### 🛠️ Tech Stack
+
+<div class="tech">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" />
+</div>
 
 ---
 
-<div align="center">
+### Un poco sobre mí
+- 🍵 **Coffee-driven** developer
+- 🧱 Me gusta construir cosas **simples, útiles, fáciles de entender y actualizar**
+- 🏗️ Trabajo principalmente con **React, Next.js, TypeScript y Supabase**
+- 💼 Background en soporte TI corporativo (Banco Davivienda)
+- 🌱 Estudiando **Licenciatura en Gestión y Desarrollo de Software** en la UTP
+- 🎯 __Abierto a oportunidades__ como Full Stack Developer
 
-<sub>⭐ Si algo de lo que ves te resulta útil, no dudes en dejar una estrella en el repo.</sub>
 
-<br>
+</br>
 
-<sub>Hecho con ☕ y TypeScript por <a href="https://github.com/Below-Z3R0">Emmanuel</a></sub>
-
-</div>
+#### Si algo de lo que ves te resulta útil, no dudes en dejar una ⭐ en el repo.
