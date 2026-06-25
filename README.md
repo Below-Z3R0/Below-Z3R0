@@ -6,16 +6,6 @@
   </a>
 </div>
 
-<style>
-  .tech {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 14px;
-    margin: 24px 0;
-  }
-</style>
-
 </br>
 
 # Hey there!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
@@ -34,7 +24,15 @@ Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocu
 
 ### 🛠️ Tech Stack
 
-<div class="tech">
+<div<style>
+  .tech {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+    margin: 24px 0;
+  }
+</style>>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" />
