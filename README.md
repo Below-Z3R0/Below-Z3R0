@@ -42,23 +42,6 @@ Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
 
 ---
 
-## Actualmente
-
-- **Trabajando en:** Mi propia biblioteca de componentes
-- **Aprendiendo:** Testing, AWS y Arquitecturas API
-- **Pregúntame sobre:** React, TypeScript.
-
----
-
-## 📫 Conectemos
-
-<div align="center">
-
-Si quieres hablar de código, colaborar en algo, o simplemente charlar sobre café contactame.
-<br>
-
----
-
 <div align="center">
 
 <sub>⭐ Si algo de lo que ves te resulta útil, no dudes en dejar una estrella en el repo.</sub>
