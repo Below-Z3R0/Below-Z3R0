@@ -6,16 +6,9 @@
 
 *Construyendo cosas con JavaScript, TypeScript y mucho café.*
 
-<br>
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Emmanuel+%F0%9F%91%8B;Desarrollador+fullstack+en+formaci%C3%B3n+%E2%98%95;Construyendo+cosas+con+TypeScript+%F0%9F%8C%80;Aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Below--Z3R0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Below-Z3R0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelcenteno)
-
-</div>
 
 ---
 
@@ -53,7 +46,7 @@ Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
 
 - **Trabajando en:** Mi propia biblioteca de componentes
 - **Aprendiendo:** Testing, AWS y Arquitecturas API
-- **Pregúntame sobre:** React, TypeScript, o dónde encontrar el mejor café de Panamá 😄
+- **Pregúntame sobre:** React, TypeScript.
 
 ---
 
@@ -61,24 +54,8 @@ Tecnologías con las que trabajo día a día, sacadas de mis proyectos reales:
 
 <div align="center">
 
-Si quieres hablar de código, colaborar en algo, o simplemente charlar sobre café:
-
+Si quieres hablar de código, colaborar en algo, o simplemente charlar sobre café contactame.
 <br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Below-Z3R0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-centeno-3bbab53b1/)
-
-</div>
-
----
-
-## 🐍 Un poquito de actividad
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
