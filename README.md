@@ -24,7 +24,8 @@ Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocu
 
 ### 🛠️ Tech Stack
 
-<div aling="center">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" />
@@ -33,7 +34,7 @@ Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocu
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" />
-</div>
+</p>
 
 ---
 
