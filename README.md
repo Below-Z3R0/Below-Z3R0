@@ -24,15 +24,7 @@ Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocu
 
 ### 🛠️ Tech Stack
 
-<div<style>
-  .tech {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 14px;
-    margin: 24px 0;
-  }
-</style>>
+<div aling="center">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" />
