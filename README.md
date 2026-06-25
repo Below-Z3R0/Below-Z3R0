@@ -8,10 +8,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desarrollador+fullstack+en+formaci%C3%B3n+%E2%98%95;Construyendo+cosas+con+TypeScript+%F0%9F%8C%80;Aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
----
-
 ##  Sobre mí
 
 - Me enfoco en el ecosistema **JavaScript / TypeScript**
