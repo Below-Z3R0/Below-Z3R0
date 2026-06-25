@@ -4,7 +4,7 @@
 
 **Desarrollador de software fullstack en formación** ☕
 
-*Construyendo cosas con JavaScript, TypeScript y mucho café.*
+*Construyendo cosas con TypeScript, Tailwind y mucho café.*
 
 ---
 
