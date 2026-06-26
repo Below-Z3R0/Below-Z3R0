@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://tenor.com/view/cat-chill-pixel-gif-9659046017019133973">
-    <img src="https://media1.tenor.com/m/hgvTLTmTwBUAAAAC/cat-chill.gif" alt="Cat Chill Pixel Cat" width="50%" />
+    <img src="https://media1.tenor.com/m/hgvTLTmTwBUAAAAC/cat-chill.gif" alt="Cat Chill Pixel Cat" width="70%" />
   </a>
 </div>
 
