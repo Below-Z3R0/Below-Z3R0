@@ -14,11 +14,11 @@
 Soy Emmanuel, desarrollador de software en Panamá
 </br>
 </br>
-Trabajo principalmente en el frontend — React, TypeScript, Tailwind, y algo de backend con Express JS.
+Trabajo principalmente en el frontend — React, TypeScript, Next JS y algo de backend con Nest JS.
 
 También uso Figma para diseñar UI y Infinite painter cuando quiero bocetar ideas.
 
-Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocurran. Todo está desarrollado desde 0, sin plantillas ni copy/paste.
+Estaré publicando distintos proyectos, experimentos y ideas locas que se me ocurran.
 
 --- 
 
